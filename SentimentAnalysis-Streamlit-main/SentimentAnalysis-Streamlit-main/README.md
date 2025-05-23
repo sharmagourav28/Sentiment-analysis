@@ -35,25 +35,6 @@ Sentiment Analysis is one of the most famous applications of Natural Language Pr
 
 
 
-# Important information
-
-## **IMDb API**
-
-API documentation link - https://imdb-api.com/api/#Reviews-header
-
-<br>
-
-To work with the API, you need to first **create an API key**.
-To create an API key, **register** on the site mentioned above and a unique key will be generated for you. We will use this key to make successful requests.
-
-
-***Note : API call limit per day is 100***
-
-<br>
-
-
-<br>
-
 ## Models used
 There are multiple libraries available in python for sentiment analysis. Let's see them below 👇
 
